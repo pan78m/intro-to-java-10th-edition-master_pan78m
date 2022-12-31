@@ -1,0 +1,11 @@
+# Audio files
+src/audio
+
+# Text files
+src/text-files
+
+# Images
+src/image
+
+# Files created from exercises
+*.dat
